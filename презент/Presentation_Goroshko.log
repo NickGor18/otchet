@@ -1,0 +1,1781 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2020.3.24)  28 MAR 2021 12:13
+entering extended mode
+**./Presentation_Goroshko.tex
+(Presentation_Goroshko.tex
+LaTeX2e <2018-12-01>
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamer.cls"
+Document Class: beamer 2018/12/02 v3.55 A class for typesetting presentations
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerbasemodes.sty"
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/etoolbox\etoolbox.sty"
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count80
+)
+\beamer@tempbox=\box27
+\beamer@tempcount=\count81
+\c@beamerpauses=\count82
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerbasedecode.sty"
+\beamer@slideinframe=\count83
+\beamer@minimum=\count84
+)
+\beamer@commentbox=\box28
+\beamer@modecount=\count85
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+\headdp=\dimen102
+\footheight=\dimen103
+\sidebarheight=\dimen104
+\beamer@tempdim=\dimen105
+\beamer@finalheight=\dimen106
+\beamer@animht=\dimen107
+\beamer@animdp=\dimen108
+\beamer@animwd=\dimen109
+\beamer@leftmargin=\dimen110
+\beamer@rightmargin=\dimen111
+\beamer@leftsidebar=\dimen112
+\beamer@rightsidebar=\dimen113
+\beamer@boxsize=\dimen114
+\beamer@vboxoffset=\dimen115
+\beamer@descdefault=\dimen116
+\beamer@descriptionwidth=\dimen117
+\beamer@lastskip=\skip41
+\beamer@areabox=\box29
+\beamer@animcurrent=\box30
+\beamer@animshowbox=\box31
+\beamer@sectionbox=\box32
+\beamer@logobox=\box33
+\beamer@linebox=\box34
+\beamer@sectioncount=\count86
+\beamer@subsubsectionmax=\count87
+\beamer@subsectionmax=\count88
+\beamer@sectionmax=\count89
+\beamer@totalheads=\count90
+\beamer@headcounter=\count91
+\beamer@partstartpage=\count92
+\beamer@sectionstartpage=\count93
+\beamer@subsectionstartpage=\count94
+\beamer@animationtempa=\count95
+\beamer@animationtempb=\count96
+\beamer@xpos=\count97
+\beamer@ypos=\count98
+\beamer@ypos@offset=\count99
+\beamer@showpartnumber=\count100
+\beamer@currentsubsection=\count101
+\beamer@coveringdepth=\count102
+\beamer@sectionadjust=\count103
+\beamer@tocsectionnumber=\count104
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerbaseoptions.sty"
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+\beamer@paperwidth=\skip42
+\beamer@paperheight=\skip43
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/geometry\geometry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count105
+\Gm@cntv=\count106
+\c@Gm@tempcnt=\count107
+\Gm@bindingoffset=\dimen118
+\Gm@wd@mp=\dimen119
+\Gm@odd@mp=\dimen120
+\Gm@even@mp=\dimen121
+\Gm@layoutwidth=\dimen122
+\Gm@layoutheight=\dimen123
+\Gm@layouthoffset=\dimen124
+\Gm@layoutvoffset=\dimen125
+\Gm@dimlist=\toks15
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/geometry\geometry.cfg"))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/base\size11.clo"
+File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/pgf/basiclayer\pgfcore.sty"
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/pgf/systemlayer\pgfsys.sty"
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/pgf/utilities\pgfrcs.sty"
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/utilities\pgfutil-common.tex"
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen128
+\pgfutil@tempdimb=\dimen129
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/utilities\pgfutil-common-lists.tex"))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/utilities\pgfutil-latex.def"
+\pgfutil@abb=\box35
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/utilities\pgfrcs.code.tex"
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf\pgf.revision.tex")
+Package: pgfrcs 2019/04/04 v3.1.2 (3.1.2)
+))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/systemlayer\pgfsys.code.tex"
+Package: pgfsys 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/utilities\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/utilities\pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen130
+\pgf@y=\dimen131
+\pgf@xa=\dimen132
+\pgf@ya=\dimen133
+\pgf@xb=\dimen134
+\pgf@yb=\dimen135
+\pgf@xc=\dimen136
+\pgf@yc=\dimen137
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count108
+\c@pgf@countb=\count109
+\c@pgf@countc=\count110
+\c@pgf@countd=\count111
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+\pgf@sys@id@count=\count112
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/systemlayer\pgf.cfg"
+File: pgf.cfg 2019/04/04 v3.1.2 (3.1.2)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/systemlayer\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/systemlayer\pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2019/04/04 v3.1.2 (3.1.2)
+)))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/systemlayer\pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfsyssoftpath@smallbuffer@items=\count113
+\pgfsyssoftpath@bigbuffer@items=\count114
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/systemlayer\pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2019/04/04 v3.1.2 (3.1.2)
+))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/basiclayer\pgfcore.code.tex"
+Package: pgfcore 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/math\pgfmath.code.tex"
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/math\pgfmathcalc.code.tex"
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/math\pgfmathutil.code.tex")
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/math\pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen138
+\pgfmath@count=\count115
+\pgfmath@box=\box36
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/math\pgfmathfunctions.code.tex"
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/math\pgfmathfunctions.basic.code.tex")
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/math\pgfmathfunctions.trigonometric.code.tex")
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/math\pgfmathfunctions.random.code.tex")
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/math\pgfmathfunctions.comparison.code.tex")
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/math\pgfmathfunctions.base.code.tex")
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/math\pgfmathfunctions.round.code.tex")
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/math\pgfmathfunctions.misc.code.tex")
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex")))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/math\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count116
+))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/basiclayer\pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@picminx=\dimen139
+\pgf@picmaxx=\dimen140
+\pgf@picminy=\dimen141
+\pgf@picmaxy=\dimen142
+\pgf@pathminx=\dimen143
+\pgf@pathmaxx=\dimen144
+\pgf@pathminy=\dimen145
+\pgf@pathmaxy=\dimen146
+\pgf@xx=\dimen147
+\pgf@xy=\dimen148
+\pgf@yx=\dimen149
+\pgf@yy=\dimen150
+\pgf@zx=\dimen151
+\pgf@zy=\dimen152
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/basiclayer\pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@path@lastx=\dimen153
+\pgf@path@lasty=\dimen154
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/basiclayer\pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@shorten@end@additional=\dimen155
+\pgf@shorten@start@additional=\dimen156
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/basiclayer\pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfpic=\box37
+\pgf@hbox=\box38
+\pgf@layerbox@main=\box39
+\pgf@picture@serial@count=\count117
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/basiclayer\pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgflinewidth=\dimen157
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/basiclayer\pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@pt@x=\dimen158
+\pgf@pt@y=\dimen159
+\pgf@pt@temp=\dimen160
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/basiclayer\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/basiclayer\pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/basiclayer\pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/basiclayer\pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfarrowsep=\dimen161
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/basiclayer\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@max=\dimen162
+\pgf@sys@shading@range@num=\count118
+\pgf@shadingcount=\count119
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/basiclayer\pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/basiclayer\pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfexternal@startupbox=\box40
+))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/basiclayer\pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/basiclayer\pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/basiclayer\pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/basiclayer\pgfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/pgf/utilities\xxcolor.sty"
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count120
+\XC@countmixins=\count121
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/oberdiek\atbegshi.sty"
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/hyperref\hyperref.sty"
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen163
+\Hy@linkcounter=\count122
+\Hy@pagecounter=\count123
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/hyperref\pd1enc.def"
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count124
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4393.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4393.
+Package hyperref Info: Option `implicit' set `false' on input line 4393.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count125
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen164
+\Fld@menulength=\count126
+\Field@Width=\dimen165
+\Fld@charsize=\dimen166
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count127
+
+
+Package hyperref Message: Stopped early.
+
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/hyperref\hpdftex.def"
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count128
+\c@bookmark@seq@number=\count129
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerbaserequires.sty"
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerbasecompatibility.sty")
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerbasefont.sty"
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks26
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/sansmathaccent\sansmathaccent.sty"
+Package: sansmathaccent 2013/03/28
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/filehook\filehook.sty"
+Package: filehook 2011/10/12 v0.5d Hooks for input files
+)))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerbasetranslator.sty"
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/translator\translator.sty"
+Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
+))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerbasemisc.sty")
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerbasetwoscreens.sty")
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerbaseoverlay.sty"
+\beamer@argscount=\count130
+\beamer@lastskipcover=\skip44
+\beamer@trivlistdepth=\count131
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerbasetitle.sty")
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerbasesection.sty"
+\c@lecture=\count132
+\c@part=\count133
+\c@section=\count134
+\c@subsection=\count135
+\c@subsubsection=\count136
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerbaseframe.sty"
+\beamer@framebox=\box41
+\beamer@frametitlebox=\box42
+\beamer@zoombox=\box43
+\beamer@zoomcount=\count137
+\beamer@zoomframecount=\count138
+\beamer@frametextheight=\dimen167
+\c@subsectionslide=\count139
+\beamer@frametopskip=\skip45
+\beamer@framebottomskip=\skip46
+\beamer@frametopskipautobreak=\skip47
+\beamer@framebottomskipautobreak=\skip48
+\beamer@envbody=\toks27
+\framewidth=\dimen168
+\c@framenumber=\count140
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerbaseverbatim.sty"
+\beamer@verbatimfileout=\write4
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerbaseframesize.sty"
+\beamer@splitbox=\box44
+\beamer@autobreakcount=\count141
+\beamer@autobreaklastheight=\dimen169
+\beamer@frametitletoks=\toks28
+\beamer@framesubtitletoks=\toks29
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerbaseframecomponents.sty"
+\beamer@footins=\box45
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerbasecolor.sty")
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerbasenotes.sty"
+\beamer@frameboxcopy=\box46
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerbasetoc.sty")
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerbasetemplates.sty"
+\beamer@sbttoks=\toks30
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerbaseauxtemplates.sty"
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerbaseboxes.sty"
+\bmb@box=\box47
+\bmb@colorbox=\box48
+\bmb@boxshadow=\box49
+\bmb@boxshadowball=\box50
+\bmb@boxshadowballlarge=\box51
+\bmb@temp=\dimen170
+\bmb@dima=\dimen171
+\bmb@dimb=\dimen172
+\bmb@prevheight=\dimen173
+)
+\beamer@blockheadheight=\dimen174
+))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerbaselocalstructure.sty"
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/tools\enumerate.sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks31
+)
+\c@figure=\count142
+\c@table=\count143
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerbasenavigation.sty"
+\beamer@section@min@dim=\dimen175
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerbasetheorems.sty"
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/amsmath\amsmath.sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks32
+\ex@=\dimen176
+))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen177
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count144
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count145
+\leftroot@=\count146
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count147
+\DOTSCASE@=\count148
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+\big@size=\dimen178
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count149
+\c@MaxMatrixCols=\count150
+\dotsspace@=\muskip11
+\c@parentequation=\count151
+\dspbrk@lvl=\count152
+\tag@help=\toks33
+\row@=\count153
+\column@=\count154
+\maxfields@=\count155
+\andhelp@=\toks34
+\eqnshift@=\dimen179
+\alignsep@=\dimen180
+\tagshift@=\dimen181
+\tagwidth@=\dimen182
+\totwidth@=\dimen183
+\lineht@=\dimen184
+\@envbody=\toks35
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks36
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/amscls\amsthm.sty"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks37
+\thm@bodyfont=\toks38
+\thm@headfont=\toks39
+\thm@notefont=\toks40
+\thm@headpunct=\toks41
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks42
+))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerbasethemes.sty"))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerthemedefault.sty"
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerfontthemedefault.sty")
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamercolorthemedefault.sty")
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerinnerthemedefault.sty"
+\beamer@dima=\dimen185
+\beamer@dimb=\dimen186
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerouterthemedefault.sty")))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks43
+\inpenc@posthook=\toks44
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/cyrillic\cp1251.def"
+File: cp1251.def 2014/10/28 v1.0d Input encoding file
+)) (SlideStyle.sty
+Package: SlideStyle 2017/08/01 BSU lectures package
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/babel\babel.sty"
+Package: babel 2019/04/03 3.29 The Babel package
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/babel\switch.def"
+File: switch.def 2019/04/03 3.29 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/babel-russian\russianb.ldf"
+Language: russian 2017/08/12 1.3j Russian support for the Babel system
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/babel\babel.def"
+File: babel.def 2019/04/03 3.29 Babel common definitions
+\babel@savecnt=\count156
+\U@D=\dimen187
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/babel\txtbabel.def")
+LaTeX Info: Redefining \textlatin on input line 2011.
+\bbl@dirlevel=\count157
+)
+
+Package babel Warning: No Cyrillic font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `T2A' encoding will be loaded  on input line 74.
+
+
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/cyrillic\t2aenc.def"
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/base\t2aenc.dfu"
+File: t2aenc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2423 (decimal 9251)
+))
+Package babel Info: Making " an active character on input line 120.
+Package babel Info: Default for \cyrdash is provided on input line 157.
+))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/tools\indentfirst.sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/bbm\bbm.sty"
+Package: bbm 1999/03/15 V 1.2 provides fonts for set symbols - TH
+LaTeX Font Info:    Overwriting math alphabet `\mathbbm' in version `bold'
+(Font)                  U/bbm/m/n --> U/bbm/bx/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathbbmss' in version `bold'
+(Font)                  U/bbmss/m/n --> U/bbmss/bx/n on input line 35.
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/tcolorbox\tcolorbox.sty"
+Package: tcolorbox 2019/03/02 version 4.20 text color boxes
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/pgf/basiclayer\pgf.sty"
+Package: pgf 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/modules\pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfnodeparttextbox=\box54
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/modules\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/pgf/compatibility\pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2019/04/04 v3.1.2 (3.1.2)
+\pgf@nodesepstart=\dimen188
+\pgf@nodesepend=\dimen189
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/pgf/compatibility\pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2019/04/04 v3.1.2 (3.1.2)
+))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/tools\verbatim.sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks45
+\verbatim@line=\toks46
+\verbatim@in@stream=\read2
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/environ\environ.sty"
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/trimspaces\trimspaces.sty"
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box55
+\tcb@upperbox=\box56
+\tcb@lowerbox=\box57
+\tcb@phantombox=\box58
+\c@tcbbreakpart=\count158
+\c@tcblayer=\count159
+\tcolorbox@number=\count160
+\tcb@temp=\box59
+\tcb@temp=\box60
+\tcb@temp=\box61
+\tcb@temp=\box62
+\tcb@out=\write5
+\tcb@record@out=\write6
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/oberdiek\epstopdf.sty"
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/pgf/frontendlayer\tikz.sty"
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/pgf/utilities\pgffor.sty"
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/pgf/utilities\pgfkeys.sty"
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/utilities\pgfkeys.code.tex"))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/pgf/math\pgfmath.sty"
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/math\pgfmath.code.tex"))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/utilities\pgffor.code.tex"
+Package: pgffor 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/math\pgfmath.code.tex")
+\pgffor@iter=\dimen190
+\pgffor@skip=\dimen191
+\pgffor@stack=\toks47
+\pgffor@toks=\toks48
+))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/frontendlayer/tikz\tikz.code.tex"
+Package: tikz 2019/04/04 v3.1.2 (3.1.2)
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/libraries\pgflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgf@plot@mark@count=\count161
+\pgfplotmarksize=\dimen192
+)
+\tikz@lastx=\dimen193
+\tikz@lasty=\dimen194
+\tikz@lastxsaved=\dimen195
+\tikz@lastysaved=\dimen196
+\tikzleveldistance=\dimen197
+\tikzsiblingdistance=\dimen198
+\tikz@figbox=\box63
+\tikz@figbox@bg=\box64
+\tikz@tempbox=\box65
+\tikz@tempbox@bg=\box66
+\tikztreelevel=\count162
+\tikznumberofchildren=\count163
+\tikznumberofcurrentchild=\count164
+\tikz@fig@count=\count165
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/modules\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2019/04/04 v3.1.2 (3.1.2)
+\pgfmatrixcurrentrow=\count166
+\pgfmatrixcurrentcolumn=\count167
+\pgf@matrix@numberofcolumns=\count168
+)
+\tikz@expandcount=\count169
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)))
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypositioning.code.tex"
+File: tikzlibrarypositioning.code.tex 2019/04/04 v3.1.2 (3.1.2)
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerfontthemeserif.sty")
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerthemeBoadilla.sty"
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamercolorthemerose.sty")
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerinnerthemerounded.sty")
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamercolorthemedolphin.sty")
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/beamer\beamerouterthemeinfolines.sty"))
+\c@theorem=\count170
+\c@corollary=\count171
+\c@lemma=\count172
+\c@proposition=\count173
+\c@remark=\count174
+\c@assumption=\count175
+\c@definition=\count176
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/oberdiek\grffile.sty"
+Package: grffile 2017/06/30 v1.18 Extended file name support for graphics (HO)
+Package grffile Info: Option `multidot' is set to `true'.
+Package grffile Info: Option `extendedchars' is set to `false'.
+Package grffile Info: Option `space' is set to `true'.
+Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 494.
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/bigints\bigints.sty"
+Package: bigints 2010/02/15 Writing big integrals
+Package bigints Info: This is Bigints by Merciadri Luca. on input line 5.
+)
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\CYRN' on input line 23.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyri' on input line 23.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrk' on input line 23.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyro' on input line 23.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrl' on input line 23.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyra' on input line 23.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrishrt' on input line 23.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\CYRS' on input line 23.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\CYRG' on input line 23.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyro' on input line 23.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrr' on input line 23.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyro' on input line 23.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrsh' on input line 23.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrk' on input line 23.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyro' on input line 23.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\CYRP' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrr' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyri' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrm' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyre' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrn' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyre' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrn' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyri' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyre' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrm' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyre' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrt' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyro' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrd' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyro' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrv' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\CYRM' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\CYRR' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\CYRS' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrv' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrerev' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrk' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyro' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrn' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyro' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrm' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyri' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrch' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyre' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrs' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrk' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyri' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrh' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrz' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyra' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrd' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyra' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrch' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyra' on input line 31.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\cyrh' on input line 31.
+
+(Presentation_Goroshko.aux
+LaTeX Font Info:    Try loading font information for T2A+cmss on input line 20.
+
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/cyrillic\t2acmss.fd"
+File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+\openout1 = `Presentation_Goroshko.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 31.
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 31.
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/cyrillic\t2acmr.fd"
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+LaTeX Font Info:    ... okay on input line 31.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(10.95003pt, 342.2953pt, 10.95003pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=342.2953pt
+* \textheight=244.6939pt
+* \oddsidemargin=-61.31996pt
+* \evensidemargin=-61.31996pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count177
+\scratchdimen=\dimen199
+\scratchbox=\box67
+\nofMPsegments=\count178
+\nofMParguments=\count179
+\everyMPshowfont=\toks49
+\MPscratchCnt=\count180
+\MPscratchDim=\dimen256
+\MPnumerator=\count181
+\makeMPintoPDFobject=\count182
+\everyMPtoPDFconversion=\toks50
+) ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box68
+Package hyperref Info: Link coloring OFF on input line 31.
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+generic/oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count183
+)
+LaTeX Info: Redefining \ref on input line 31.
+LaTeX Info: Redefining \pageref on input line 31.
+LaTeX Info: Redefining \nameref on input line 31.
+ (Presentation_Goroshko.out)
+(Presentation_Goroshko.out)
+\@outlinefile=\write7
+\openout7 = `Presentation_Goroshko.out'.
+
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/translator\translator-basic-dictionary-English.dict"
+Dictionary: translator-basic-dictionary, Language: English 
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/translator\translator-bibliography-dictionary-English.dict"
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/translator\translator-environment-dictionary-English.dict"
+Dictionary: translator-environment-dictionary, Language: English 
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/translator\translator-months-dictionary-English.dict"
+Dictionary: translator-months-dictionary, Language: English 
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/translator\translator-numbers-dictionary-English.dict"
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/translator\translator-theorem-dictionary-English.dict"
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+(Presentation_Goroshko.nav)
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 31.
+
+LaTeX Font Info:    No file OMScmss.fd. on input line 31.
+
+
+LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead on input line 31.
+
+Package epstopdf Info: Source file: <bsulogo.eps>
+(epstopdf)                    date: 2019-04-14 15:18:42
+(epstopdf)                    size: 167557 bytes
+(epstopdf)             Output file: <bsulogo-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-12-12 18:35:17
+(epstopdf)                    size: 14437 bytes
+(epstopdf)             Command: <epstopdf --outfile=bsulogo-eps-converted-to.pd
+f bsulogo.eps>
+(epstopdf)             \includegraphics on input line 33.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./bsulogo-eps-converted-to.pdf): PDF inclusi
+on: found PDF version <1.7>, but at most version <1.5> allowed
+<bsulogo-eps-converted-to.pdf, id=13, 426.59375pt x 109.40875pt>
+File: bsulogo-eps-converted-to.pdf Graphic file (type pdf)
+<use bsulogo-eps-converted-to.pdf>
+Package pdftex.def Info: bsulogo-eps-converted-to.pdf  used on input line 33.
+(pdftex.def)             Requested size: 77.65579pt x 19.91684pt.
+LaTeX Font Info:    Try loading font information for U+msa on input line 33.
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 33.
+
+("C:\Users\Николай Горошко\AppData\Local\Programs\MiKTeX 2.9\tex/
+latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<FPMIlogo.jpg, id=14, 117.43875pt x 120.45pt>
+File: FPMIlogo.jpg Graphic file (type jpg)
+<use FPMIlogo.jpg>
+Package pdftex.def Info: FPMIlogo.jpg  used on input line 33.
+(pdftex.def)             Requested size: 41.6113pt x 42.67912pt.
+<MOUlogo.jpg, id=15, 452.69125pt x 90.83937pt>
+File: MOUlogo.jpg Graphic file (type jpg)
+<use MOUlogo.jpg>
+Package pdftex.def Info: MOUlogo.jpg  used on input line 33.
+(pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
+
+Overfull \hbox (13.89565pt too wide) in paragraph at lines 33--33
+[][] 
+ []
+
+[1
+
+{C:/Users/Николай Горошко/AppData/Local/MiKTeX/2.9/pdftex/config/
+pdftex.map} <./bsulogo-eps-converted-to.pdf> <./FPMIlogo.jpg> <./MOUlogo.jpg>]
+File: MOUlogo.jpg Graphic file (type jpg)
+<use MOUlogo.jpg>
+Package pdftex.def Info: MOUlogo.jpg  used on input line 50.
+(pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
+ [2
+
+]
+File: MOUlogo.jpg Graphic file (type jpg)
+<use MOUlogo.jpg>
+Package pdftex.def Info: MOUlogo.jpg  used on input line 58.
+(pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
+ [3
+
+]
+File: MOUlogo.jpg Graphic file (type jpg)
+<use MOUlogo.jpg>
+Package pdftex.def Info: MOUlogo.jpg  used on input line 63.
+(pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
+ [4
+
+]
+File: MOUlogo.jpg Graphic file (type jpg)
+<use MOUlogo.jpg>
+Package pdftex.def Info: MOUlogo.jpg  used on input line 78.
+(pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
+ [5
+
+]
+File: MOUlogo.jpg Graphic file (type jpg)
+<use MOUlogo.jpg>
+Package pdftex.def Info: MOUlogo.jpg  used on input line 88.
+(pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
+ [6
+
+]
+File: MOUlogo.jpg Graphic file (type jpg)
+<use MOUlogo.jpg>
+Package pdftex.def Info: MOUlogo.jpg  used on input line 99.
+(pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
+ [7
+
+]
+File: MOUlogo.jpg Graphic file (type jpg)
+<use MOUlogo.jpg>
+Package pdftex.def Info: MOUlogo.jpg  used on input line 104.
+(pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
+ [8
+
+]
+File: MOUlogo.jpg Graphic file (type jpg)
+<use MOUlogo.jpg>
+Package pdftex.def Info: MOUlogo.jpg  used on input line 118.
+(pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
+ [9
+
+]
+<figure1.1.jpg, id=94, 562.1pt x 421.575pt>
+File: figure1.1.jpg Graphic file (type jpg)
+<use figure1.1.jpg>
+Package pdftex.def Info: figure1.1.jpg  used on input line 129.
+(pdftex.def)             Requested size: 168.6313pt x 126.47346pt.
+<figure1.2.jpg, id=95, 562.1pt x 421.575pt>
+File: figure1.2.jpg Graphic file (type jpg)
+<use figure1.2.jpg>
+Package pdftex.def Info: figure1.2.jpg  used on input line 129.
+(pdftex.def)             Requested size: 168.6313pt x 126.47346pt.
+File: MOUlogo.jpg Graphic file (type jpg)
+<use MOUlogo.jpg>
+Package pdftex.def Info: MOUlogo.jpg  used on input line 129.
+(pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
+ [10
+
+ <./figure1.1.jpg> <./figure1.2.jpg>]
+<figure6.jpg, id=103, 1204.5pt x 301.125pt>
+File: figure6.jpg Graphic file (type jpg)
+<use figure6.jpg>
+Package pdftex.def Info: figure6.jpg  used on input line 138.
+(pdftex.def)             Requested size: 481.79147pt x 120.44786pt.
+
+Overfull \hbox (139.49617pt too wide) in paragraph at lines 138--138
+ [] 
+ []
+
+File: MOUlogo.jpg Graphic file (type jpg)
+<use MOUlogo.jpg>
+Package pdftex.def Info: MOUlogo.jpg  used on input line 138.
+(pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
+[11
+
+ <./figure6.jpg>]
+<figure5.1.jpg, id=110, 562.1pt x 421.575pt>
+File: figure5.1.jpg Graphic file (type jpg)
+<use figure5.1.jpg>
+Package pdftex.def Info: figure5.1.jpg  used on input line 145.
+(pdftex.def)             Requested size: 168.6313pt x 126.47346pt.
+<figure5.2.jpg, id=111, 562.1pt x 421.575pt>
+File: figure5.2.jpg Graphic file (type jpg)
+<use figure5.2.jpg>
+Package pdftex.def Info: figure5.2.jpg  used on input line 145.
+(pdftex.def)             Requested size: 168.6313pt x 126.47346pt.
+File: MOUlogo.jpg Graphic file (type jpg)
+<use MOUlogo.jpg>
+Package pdftex.def Info: MOUlogo.jpg  used on input line 145.
+(pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
+ [12
+
+ <./figure5.1.jpg> <./figure5.2.jpg>]
+File: MOUlogo.jpg Graphic file (type jpg)
+<use MOUlogo.jpg>
+Package pdftex.def Info: MOUlogo.jpg  used on input line 151.
+(pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
+ [13
+
+]
+File: MOUlogo.jpg Graphic file (type jpg)
+<use MOUlogo.jpg>
+Package pdftex.def Info: MOUlogo.jpg  used on input line 155.
+(pdftex.def)             Requested size: 99.2539pt x 19.91684pt.
+ [14
+
+]
+\tf@nav=\write8
+\openout8 = `Presentation_Goroshko.nav'.
+
+\tf@toc=\write9
+\openout9 = `Presentation_Goroshko.toc'.
+
+\tf@snm=\write10
+\openout10 = `Presentation_Goroshko.snm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 156.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 156.
+
+(Presentation_Goroshko.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 156.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 156.
+Package rerunfilecheck Info: File `Presentation_Goroshko.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 23430 strings out of 492942
+ 481620 string characters out of 3115533
+ 544547 words of memory out of 3000000
+ 26766 multiletter control sequences out of 15000+200000
+ 15212 words of font info for 47 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 58i,20n,79p,819b,704s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Николай Горошко/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/enc/dvips/cm-super/cm-super-t2a.enc}<C:/Users/Николай Горошко/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:
+/Users/Николай Горошко/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Николай Горошко/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users
+/Николай Горошко/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb><C:/Users/Николай Горошко/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Ник�
+�лай Горошко/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmsy10.pfb><C:/Users/Николай Горошко/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Никола�
+� Горошко/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmsy8.pfb><C:/Users/Николай Горошко/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/cm-super/sfss0600.pfb><C:/Users/Николай Го�
+�ошко/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfss100
+0.pfb><C:/Users/Николай Горошко/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/cm-super/sfss1095.pfb><C:/Users/Николай Горошк
+о/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfss1440.pfb>
+Output written on Presentation_Goroshko.pdf (14 pages, 303800 bytes).
+PDF statistics:
+ 176 PDF objects out of 1000 (max. 8388607)
+ 29 named destinations out of 1000 (max. 500000)
+ 107 words of extra memory for PDF output out of 10000 (max. 10000000)
+

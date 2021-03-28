@@ -1,0 +1,156 @@
+\documentclass[notheorems]{beamer}
+\usepackage[cp1251]{inputenc}
+\usepackage{SlideStyle}
+\usepackage{graphicx}
+\DeclareGraphicsExtensions{.pdf,.png,.jpg,.eps}
+\usepackage{setspace}
+\usepackage{grffile}
+\usepackage{bigints}
+\graphicspath{}
+
+\titlegraphic{\vspace*{-7cm}
+    \parbox[c]{3cm}{\includegraphics[height=.7cm]{bsulogo}}
+    \hspace*{1cm}%
+    \parbox[c]{2cm}{\includegraphics[height=1.5cm]{FPMIlogo}}
+    \hspace*{1cm}%
+    \parbox[c]{3cm}{\includegraphics[height=.7cm]{MOUlogo}}
+    \vspace*{3cm}
+}
+
+\title[Методы MPC]{\Large Применение методов МРС \\ в экономических задачах}
+
+
+\author[Н.С. Горошко]{Николай С. Горошко}
+
+\institute[ФПМИ, БГУ]{}
+
+
+\date[\copyright 2020-2021]{}%{\scriptsize \structure{2017-2018}}
+
+
+\begin{document}
+
+\maketitle
+
+%--------------------------------------------------------------------------------------
+\begin{frame}{Содержание}
+
+\begin{itemize}
+
+\item Теория управления по прогнозирующей модели \vfill
+
+\item Неоклассическая модель оптимального экономического роста  \vfill
+
+\item Построение магистралей  \vfill
+
+\item Результаты численного эксперимента   \vfill
+
+\end{itemize}
+
+\end{frame}
+
+%--------------------------------------------------------------------------
+\begin{frame}{Цели}
+
+Применить методы MPC для решения задачи оптимального управления для неоклассической модели
+экономического роста. Сравнить результаты при использовании различных критериев.
+
+\end{frame}
+\begin{frame}{Теория управления \\ по прогнозирующей модели}
+
+Управление по прогнозирующей модели (далее MPC, от англ. Model Predictive Control) --- это продвинутый метод управления процессами, который используется для соответствующего набора ограничений.
+
+\end{frame}
+
+%--------------------------------------------------------------------------
+\begin{frame}{Неоклассическая модель \\ оптимального экономического роста}
+
+Начальные условия
+$$ J(K,L,u)= \int_{0}^{\infty}
+e^{-\rho t}[\ln(1-u(t))+\ln F(K(t),L(t))]dt \rightarrow \max $$
+$$ \dot{K}(t)=u(t)F(K(t),L(t)),\hspace{1cm} u(t)\in U_\varepsilon = [0 ,1-\varepsilon],  $$
+$$\dot{L}(t)=\mu L(t),$$
+$$ K(0) = K_0,L (0) = L_0, $$
+Условия к которым перешли в результате преобразований
+$$ J(x,u) = \int_{0}^{\infty} e^{-\rho t}[\ln(1-u(t))+\ln f(x(t))]dt \rightarrow \max.$$
+$$ \dot{x}(t) = u(t) f(x(t))-\mu x(t),u (t)\in U_\varepsilon = [0 ,1-\varepsilon], $$
+$$x(0) = x_0$$
+\end{frame}
+
+%--------------------------------------------------------------------------
+\begin{frame}{Построение магистралей}
+
+Формулы для нахождения магистральных значений
+$$ \dfrac{d}{dx}f(x) = \rho + \mu $$
+$$ \hat{p} = \dfrac{1}{f(\hat{x}) - \mu\hat{x}} $$
+$$ \hat{u} = \dfrac{\mu \hat{x}}{f(\hat{x})} $$
+
+\end{frame}
+\begin{frame} {С критерием типа Лагранжа \\ (Базовый EMPC без дополнительных ограничений)}
+\begin{equation}
+J(x,u) =  \int_{\tau}^{\tau+z} e^{-\rho t}[\ln(1-u(t))+\ln f(x(t))]dt
+\end{equation}
+$$ u(t) = u_i, t \in [ih, (i+1)h], i = 0,...,T-1; x_{i+1} = u_i f(x_i)-\mu x_i$$
+$$ J(x,u) = \sum_{i=0}^{T-1}\int_{ih}^{(i+1)h} e^{-\rho t}[\ln(1-u_i)+\ln f(x_i)]dt =$$  $$ \sum_{i=0}^{T-1}\dfrac{[\ln(1-u_i)+\ln f(x_i)]}{-\rho} \left(e^{-\rho(i+1)h} -  e^{-\rho ih}\right)$$
+\begin{equation}
+J(x,u) = \sum_{i=0}^{T-1}\dfrac{[\ln(1-u_i)+\ln f(x_i)]}{-\rho} \left(e^{-\rho(i+1)h} -  e^{-\rho ih}\right)
+\end{equation}
+$$ x_{i+1} = u_i f(x_i)-\mu x_i, u_i\in U_\varepsilon = [0 ,1-\varepsilon], x(0) = x_0, x_i \ge 0$$
+\end{frame}
+
+\begin{frame}{EMPС с терминальным \\ ограничением-равенством}
+$$ J(x,u) = \sum_{i=0}^{T-1}\dfrac{[\ln(1-u_i)+\ln f(x_i)]}{-\rho} \left(e^{-\rho(i+1)h} -  e^{-\rho ih}\right)$$
+$$ x_{i+1} = u_i f(x_i)-\mu x_i, u_i\in U_\varepsilon = [0 ,1-\varepsilon], x(0) = x_0, x(\tau + z) = \hat{x}, x_i \ge 0$$
+\end{frame}
+
+\begin{frame}{С критерием типа Майера}
+\begin{equation}
+J(x,u) = W(x(\tau+z)) + \int_{\tau}^{\tau+z}L(x(t),u(t))dt \rightarrow \max.
+\end{equation}
+$$ \dot{x}(t) = u(t) f(x(t))-\mu x(t),u (t)\in U_\varepsilon = [0 ,1-\varepsilon], $$
+$$ x_0 = x(0).$$
+$$ W(x,\tau+z) = e^{-\rho (\tau+z)}\hat{p}x $$
+\begin{equation}
+J(x,u) = e^{-\rho (\tau+z)}\hat{p}x + \int_{0}^{\infty}e^{-\rho t}[\ln(1-u(t))+\ln f(x(t))]dt \rightarrow \max,
+\end{equation}
+$$ \dot{x}(t) = u(t) f(x(t))-\mu x(t),u (t)\in U_\varepsilon = [0 ,1-\varepsilon], $$
+$$ x(0) = x_0, x \ge 0$$
+\end{frame}
+
+\begin{frame}{Результаты численного эксперимента 1}
+
+\begin{figure}
+	\includegraphics[scale=0.3]{figure1.1}
+	\includegraphics[scale=0.3]{figure1.2}
+	\caption{Траектории $ x $ и $ u $ при $ z  = 10 $}
+\end{figure}
+
+
+\end{frame}
+\begin{frame}{Результаты численного эксперимента 2}
+
+\begin{figure}
+	\includegraphics[scale=0.4]{figure6}
+	\caption{Траектории $ x $ и $ u $ при $ z  = 10 $}
+\end{figure}
+
+
+\end{frame}
+\begin{frame}{Результаты численного эксперимента 3}
+\begin{figure}
+	\includegraphics[scale=0.3]{figure5.1}
+	\includegraphics[scale=0.3]{figure5.2}
+	\caption{Траектории $ x $ и $ u $ при $ z  = 10 $}
+\end{figure}
+\end{frame}
+
+\begin{frame}{Анализ}
+Метод первый - слишком большой горизонт планирования для достижения магистральных значений. \\
+Метод второй - повышенная трудоемкость и недопустимость некоторых начальных условий. \\
+Метод третий - имеет решение при любом горизонте, даже самом малом (в отличие от предыдущего метода).
+\end{frame}
+
+\begin{frame}{Вывод}
+Наиболее выгодным является третий метод, т.е. с использованием критерия типа Майера (с терминальной стоимостью)
+\end{frame}
+\end{document} 
